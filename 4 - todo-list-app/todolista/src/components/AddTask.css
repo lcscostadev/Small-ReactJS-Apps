@@ -1,0 +1,13 @@
+.input-text{
+    padding: 8px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.btn{
+    background: none;
+    border: 2px solid chartreuse;
+}
