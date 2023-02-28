@@ -1,13 +1,11 @@
 import React from 'react';
-import RandomGen from './components/RandomGen';
 import './App.css'
+import CalculatorBMI from './components/CalculatorBMI'
 
 function App() {
 
   return (
-    <>
-      <RandomGen />
-    </>
+    <CalculatorBMI />
   )
 }
 
